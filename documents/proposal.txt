@@ -2,4 +2,6 @@ Course: Javascript & Advanced CSS
 
 API: I am proposing to use the PokeAPI to build a Pokemon application, such as a Pokedex or battle simulator.
 
+API URL: https://pokeapi.co
+
 Objectives: I believe this particular project would be a useful tool in helping me learn the ins and outs of APIs. Pokemon is a guilty pleasure of mine, and I would enjoy creating something that might provide a quick and useful Pokemon reference for other fans, or something fun that they could play. I would need to scope out the details further to determine what is feasibile within the scope of this course.
